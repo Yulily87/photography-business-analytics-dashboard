@@ -11,8 +11,13 @@ Designed an interactive Power BI dashboard to track KPIs including total revenue
 Identified key business insights such as seasonal demand trends and top-performing services to support data-driven decision-making.
 
 Business Insight
-- Wedding photography generated the highest revenue across all services
-- Family portrait sessions had the highest booking frequency
-- Marysville and Everett were the top-performing locations
-- Peak booking activity occurred during summer months (June–August)
-- A small group of customers contributed to a large portion of revenue
+
+- Wedding photography generated the highest revenue across all services.
+  
+- Family portrait sessions had the highest booking frequency.
+  
+- Marysville and Everett were the top-performing locations.
+  
+- Peak booking activity occurred during summer months (June–August).
+  
+- A small group of customers contributed to a large portion of revenue.
